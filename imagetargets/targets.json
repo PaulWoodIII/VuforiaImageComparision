@@ -1,0 +1,700 @@
+{
+    "targets": [
+        {
+            "dat": "001.dat",
+            "featureImage": "001-feature.jpg",
+            "image": "001.jpg",
+            "xml": "001.xml"
+        },
+        {
+            "dat": "002.dat",
+            "featureImage": "002-feature.jpg",
+            "image": "002.jpg",
+            "xml": "002.xml"
+        },
+        {
+            "dat": "003.dat",
+            "featureImage": "003-feature.jpg",
+            "image": "003.jpg",
+            "xml": "003.xml"
+        },
+        {
+            "dat": "004.dat",
+            "featureImage": "004-feature.jpg",
+            "image": "004.jpg",
+            "xml": "004.xml"
+        },
+        {
+            "dat": "005.dat",
+            "featureImage": "005-feature.jpg",
+            "image": "005.jpg",
+            "xml": "005.xml"
+        },
+        {
+            "dat": "006.dat",
+            "featureImage": "006-feature.jpg",
+            "image": "006.jpg",
+            "xml": "006.xml"
+        },
+        {
+            "dat": "007.dat",
+            "featureImage": "007-feature.jpg",
+            "image": "007.jpg",
+            "xml": "007.xml"
+        },
+        {
+            "dat": "008.dat",
+            "featureImage": "008-feature.jpg",
+            "image": "008.jpg",
+            "xml": "008.xml"
+        },
+        {
+            "dat": "009.dat",
+            "featureImage": "009-feature.jpg",
+            "image": "009.jpg",
+            "xml": "009.xml"
+        },
+        {
+            "dat": "010.dat",
+            "featureImage": "010-feature.jpg",
+            "image": "010.jpg",
+            "xml": "010.xml"
+        },
+        {
+            "dat": "011.dat",
+            "featureImage": "011-feature.jpg",
+            "image": "011.jpg",
+            "xml": "011.xml"
+        },
+        {
+            "dat": "012.dat",
+            "featureImage": "012-feature.jpg",
+            "image": "012.jpg",
+            "xml": "012.xml"
+        },
+        {
+            "dat": "013.dat",
+            "featureImage": "013-feature.jpg",
+            "image": "013.jpg",
+            "xml": "013.xml"
+        },
+        {
+            "dat": "014.dat",
+            "featureImage": "014-feature.jpg",
+            "image": "014.jpg",
+            "xml": "014.xml"
+        },
+        {
+            "dat": "015.dat",
+            "featureImage": "015-feature.jpg",
+            "image": "015.jpg",
+            "xml": "015.xml"
+        },
+        {
+            "dat": "016.dat",
+            "featureImage": "016-feature.jpg",
+            "image": "016.jpg",
+            "xml": "016.xml"
+        },
+        {
+            "dat": "017.dat",
+            "featureImage": "017-feature.jpg",
+            "image": "017.jpg",
+            "xml": "017.xml"
+        },
+        {
+            "dat": "018.dat",
+            "featureImage": "018-feature.jpg",
+            "image": "018.jpg",
+            "xml": "018.xml"
+        },
+        {
+            "dat": "019.dat",
+            "featureImage": "019-feature.jpg",
+            "image": "019.jpg",
+            "xml": "019.xml"
+        },
+        {
+            "dat": "020.dat",
+            "featureImage": "020-feature.jpg",
+            "image": "020.jpg",
+            "xml": "020.xml"
+        },
+        {
+            "dat": "021.dat",
+            "featureImage": "021-feature.jpg",
+            "image": "021.jpg",
+            "xml": "021.xml"
+        },
+        {
+            "dat": "022.dat",
+            "featureImage": "022-feature.jpg",
+            "image": "022.jpg",
+            "xml": "022.xml"
+        },
+        {
+            "dat": "023.dat",
+            "featureImage": "023-feature.jpg",
+            "image": "023.jpg",
+            "xml": "023.xml"
+        },
+        {
+            "dat": "024.dat",
+            "featureImage": "024-feature.jpg",
+            "image": "024.jpg",
+            "xml": "024.xml"
+        },
+        {
+            "dat": "025.dat",
+            "featureImage": "025-feature.jpg",
+            "image": "025.jpg",
+            "xml": "025.xml"
+        },
+        {
+            "dat": "026.dat",
+            "featureImage": "026-feature.jpg",
+            "image": "026.jpg",
+            "xml": "026.xml"
+        },
+        {
+            "dat": "027.dat",
+            "featureImage": "027-feature.jpg",
+            "image": "027.jpg",
+            "xml": "027.xml"
+        },
+        {
+            "dat": "028.dat",
+            "featureImage": "028-feature.jpg",
+            "image": "028.jpg",
+            "xml": "028.xml"
+        },
+        {
+            "dat": "029.dat",
+            "featureImage": "029-feature.jpg",
+            "image": "029.jpg",
+            "xml": "029.xml"
+        },
+        {
+            "dat": "030.dat",
+            "featureImage": "030-feature.jpg",
+            "image": "030.jpg",
+            "xml": "030.xml"
+        },
+        {
+            "dat": "031.dat",
+            "featureImage": "031-feature.jpg",
+            "image": "031.jpg",
+            "xml": "031.xml"
+        },
+        {
+            "dat": "032.dat",
+            "featureImage": "032-feature.jpg",
+            "image": "032.jpg",
+            "xml": "032.xml"
+        },
+        {
+            "dat": "033.dat",
+            "featureImage": "033-feature.jpg",
+            "image": "033.jpg",
+            "xml": "033.xml"
+        },
+        {
+            "dat": "034.dat",
+            "featureImage": "034-feature.jpg",
+            "image": "034.jpg",
+            "xml": "034.xml"
+        },
+        {
+            "dat": "035.dat",
+            "featureImage": "035-feature.jpg",
+            "image": "035.jpg",
+            "xml": "035.xml"
+        },
+        {
+            "dat": "036.dat",
+            "featureImage": "036-feature.jpg",
+            "image": "036.jpg",
+            "xml": "036.xml"
+        },
+        {
+            "dat": "037.dat",
+            "featureImage": "037-feature.jpg",
+            "image": "037.jpg",
+            "xml": "037.xml"
+        },
+        {
+            "dat": "038.dat",
+            "featureImage": "038-feature.jpg",
+            "image": "038.jpg",
+            "xml": "038.xml"
+        },
+        {
+            "dat": "039.dat",
+            "featureImage": "039-feature.jpg",
+            "image": "039.jpg",
+            "xml": "039.xml"
+        },
+        {
+            "dat": "040.dat",
+            "featureImage": "040-feature.jpg",
+            "image": "040.jpg",
+            "xml": "040.xml"
+        },
+        {
+            "dat": "041.dat",
+            "featureImage": "041-feature.jpg",
+            "image": "041.jpg",
+            "xml": "041.xml"
+        },
+        {
+            "dat": "042.dat",
+            "featureImage": "042-feature.jpg",
+            "image": "042.jpg",
+            "xml": "042.xml"
+        },
+        {
+            "dat": "043.dat",
+            "featureImage": "043-feature.jpg",
+            "image": "043.jpg",
+            "xml": "043.xml"
+        },
+        {
+            "dat": "044.dat",
+            "featureImage": "044-feature.jpg",
+            "image": "044.jpg",
+            "xml": "044.xml"
+        },
+        {
+            "dat": "045.dat",
+            "featureImage": "045-feature.jpg",
+            "image": "045.jpg",
+            "xml": "045.xml"
+        },
+        {
+            "dat": "046.dat",
+            "featureImage": "046-feature.jpg",
+            "image": "046.jpg",
+            "xml": "046.xml"
+        },
+        {
+            "dat": "047.dat",
+            "featureImage": "047-feature.jpg",
+            "image": "047.jpg",
+            "xml": "047.xml"
+        },
+        {
+            "dat": "048.dat",
+            "featureImage": "048-feature.jpg",
+            "image": "048.jpg",
+            "xml": "048.xml"
+        },
+        {
+            "dat": "049.dat",
+            "featureImage": "049-feature.jpg",
+            "image": "049.jpg",
+            "xml": "049.xml"
+        },
+        {
+            "dat": "050.dat",
+            "featureImage": "050-feature.jpg",
+            "image": "050.jpg",
+            "xml": "050.xml"
+        },
+        {
+            "dat": "051.dat",
+            "featureImage": "051-feature.jpg",
+            "image": "051.jpg",
+            "xml": "051.xml"
+        },
+        {
+            "dat": "052.dat",
+            "featureImage": "052-feature.jpg",
+            "image": "052.jpg",
+            "xml": "052.xml"
+        },
+        {
+            "dat": "053.dat",
+            "featureImage": "053-feature.jpg",
+            "image": "053.jpg",
+            "xml": "053.xml"
+        },
+        {
+            "dat": "054.dat",
+            "featureImage": "054-feature.jpg",
+            "image": "054.jpg",
+            "xml": "054.xml"
+        },
+        {
+            "dat": "055.dat",
+            "featureImage": "055-feature.jpg",
+            "image": "055.jpg",
+            "xml": "055.xml"
+        },
+        {
+            "dat": "056.dat",
+            "featureImage": "056-feature.jpg",
+            "image": "056.jpg",
+            "xml": "056.xml"
+        },
+        {
+            "dat": "057.dat",
+            "featureImage": "057-feature.jpg",
+            "image": "057.jpg",
+            "xml": "057.xml"
+        },
+        {
+            "dat": "058.dat",
+            "featureImage": "058-feature.jpg",
+            "image": "058.jpg",
+            "xml": "058.xml"
+        },
+        {
+            "dat": "059.dat",
+            "featureImage": "059-feature.jpg",
+            "image": "059.jpg",
+            "xml": "059.xml"
+        },
+        {
+            "dat": "060.dat",
+            "featureImage": "060-feature.jpg",
+            "image": "060.jpg",
+            "xml": "060.xml"
+        },
+        {
+            "dat": "061.dat",
+            "featureImage": "061-feature.jpg",
+            "image": "061.jpg",
+            "xml": "061.xml"
+        },
+        {
+            "dat": "062.dat",
+            "featureImage": "062-feature.jpg",
+            "image": "062.jpg",
+            "xml": "062.xml"
+        },
+        {
+            "dat": "063.dat",
+            "featureImage": "063-feature.jpg",
+            "image": "063.jpg",
+            "xml": "063.xml"
+        },
+        {
+            "dat": "064.dat",
+            "featureImage": "064-feature.jpg",
+            "image": "064.jpg",
+            "xml": "064.xml"
+        },
+        {
+            "dat": "065.dat",
+            "featureImage": "065-feature.jpg",
+            "image": "065.jpg",
+            "xml": "065.xml"
+        },
+        {
+            "dat": "066.dat",
+            "featureImage": "066-feature.jpg",
+            "image": "066.jpg",
+            "xml": "066.xml"
+        },
+        {
+            "dat": "067.dat",
+            "featureImage": "067-feature.jpg",
+            "image": "067.jpg",
+            "xml": "067.xml"
+        },
+        {
+            "dat": "068.dat",
+            "featureImage": "068-feature.jpg",
+            "image": "068.jpg",
+            "xml": "068.xml"
+        },
+        {
+            "dat": "069.dat",
+            "featureImage": "069-feature.jpg",
+            "image": "069.jpg",
+            "xml": "069.xml"
+        },
+        {
+            "dat": "070.dat",
+            "featureImage": "070-feature.jpg",
+            "image": "070.jpg",
+            "xml": "070.xml"
+        },
+        {
+            "dat": "071.dat",
+            "featureImage": "071-feature.jpg",
+            "image": "071.png",
+            "xml": "071.xml"
+        },
+        {
+            "dat": "072.dat",
+            "featureImage": "072-feature.jpg",
+            "image": "072.jpg",
+            "xml": "072.xml"
+        },
+        {
+            "dat": "073.dat",
+            "featureImage": "073-feature.jpg",
+            "image": "073.jpg",
+            "xml": "073.xml"
+        },
+        {
+            "dat": "074.dat",
+            "featureImage": "074-feature.jpg",
+            "image": "074.jpg",
+            "xml": "074.xml"
+        },
+        {
+            "dat": "075.dat",
+            "featureImage": "075-feature.jpg",
+            "image": "075.jpg",
+            "xml": "075.xml"
+        },
+        {
+            "dat": "076.dat",
+            "featureImage": "076-feature.jpg",
+            "image": "076.jpg",
+            "xml": "076.xml"
+        },
+        {
+            "dat": "077.dat",
+            "featureImage": "077-feature.jpg",
+            "image": "077.jpg",
+            "xml": "077.xml"
+        },
+        {
+            "dat": "078.dat",
+            "featureImage": "078-feature.jpg",
+            "image": "078.jpg",
+            "xml": "078.xml"
+        },
+        {
+            "dat": "079.dat",
+            "featureImage": "079-feature.jpg",
+            "image": "079.jpg",
+            "xml": "079.xml"
+        },
+        {
+            "dat": "080.dat",
+            "featureImage": "080-feature.jpg",
+            "image": "080.jpg",
+            "xml": "080.xml"
+        },
+        {
+            "dat": "081.dat",
+            "featureImage": "081-feature.jpg",
+            "image": "081.jpg",
+            "xml": "081.xml"
+        },
+        {
+            "dat": "082.dat",
+            "featureImage": "082-feature.jpg",
+            "image": "082.jpg",
+            "xml": "082.xml"
+        },
+        {
+            "dat": "083.dat",
+            "featureImage": "083-feature.jpg",
+            "image": "083.jpg",
+            "xml": "083.xml"
+        },
+        {
+            "dat": "084.dat",
+            "featureImage": "084-feature.jpg",
+            "image": "084.jpg",
+            "xml": "084.xml"
+        },
+        {
+            "dat": "085.dat",
+            "featureImage": "085-feature.jpg",
+            "image": "085.jpg",
+            "xml": "085.xml"
+        },
+        {
+            "dat": "086.dat",
+            "featureImage": "086-feature.jpg",
+            "image": "086.jpg",
+            "xml": "086.xml"
+        },
+        {
+            "dat": "087.dat",
+            "featureImage": "087-feature.jpg",
+            "image": "087.jpg",
+            "xml": "087.xml"
+        },
+        {
+            "dat": "088.dat",
+            "featureImage": "088-feature.jpg",
+            "image": "088.jpg",
+            "xml": "088.xml"
+        },
+        {
+            "dat": "089.dat",
+            "featureImage": "089-feature.jpg",
+            "image": "089.jpg",
+            "xml": "089.xml"
+        },
+        {
+            "dat": "090.dat",
+            "featureImage": "090-feature.jpg",
+            "image": "090.png",
+            "xml": "090.xml"
+        },
+        {
+            "dat": "091.dat",
+            "featureImage": "091-feature.jpg",
+            "image": "091.jpg",
+            "xml": "091.xml"
+        },
+        {
+            "dat": "092.dat",
+            "featureImage": "092-feature.jpg",
+            "image": "092.jpg",
+            "xml": "092.xml"
+        },
+        {
+            "dat": "093.dat",
+            "featureImage": "093-feature.jpg",
+            "image": "093.jpg",
+            "xml": "093.xml"
+        },
+        {
+            "dat": "094.dat",
+            "featureImage": "094-feature.jpg",
+            "image": "094.png",
+            "xml": "094.xml"
+        },
+        {
+            "dat": "095.dat",
+            "featureImage": "095-feature.jpg",
+            "image": "095.jpg",
+            "xml": "095.xml"
+        },
+        {
+            "dat": "096.dat",
+            "featureImage": "096-feature.jpg",
+            "image": "096.jpg",
+            "xml": "096.xml"
+        },
+        {
+            "dat": "097.dat",
+            "featureImage": "097-feature.jpg",
+            "image": "097.jpg",
+            "xml": "097.xml"
+        },
+        {
+            "dat": "098.dat",
+            "featureImage": "098-feature.jpg",
+            "image": "098.jpg",
+            "xml": "098.xml"
+        },
+        {
+            "dat": "099.dat",
+            "featureImage": "099-feature.jpg",
+            "image": "099.jpg",
+            "xml": "099.xml"
+        },
+        {
+            "dat": "100.dat",
+            "featureImage": "100-feature.jpg",
+            "image": "100.jpg",
+            "xml": "100.xml"
+        },
+        {
+            "dat": "101.dat",
+            "featureImage": "101-feature.jpg",
+            "image": "101.jpg",
+            "xml": "101.xml"
+        },
+        {
+            "dat": "102.dat",
+            "featureImage": "102-feature.jpg",
+            "image": "102.jpg",
+            "xml": "102.xml"
+        },
+        {
+            "dat": "103.dat",
+            "featureImage": "103-feature.jpg",
+            "image": "103.jpg",
+            "xml": "103.xml"
+        },
+        {
+            "dat": "104.dat",
+            "featureImage": "104-feature.jpg",
+            "image": "104.jpg",
+            "xml": "104.xml"
+        },
+        {
+            "dat": "105.dat",
+            "featureImage": "105-feature.jpg",
+            "image": "105.jpg",
+            "xml": "105.xml"
+        },
+        {
+            "dat": "106.dat",
+            "featureImage": "106-feature.jpg",
+            "image": "106.jpg",
+            "xml": "106.xml"
+        },
+        {
+            "dat": "107.dat",
+            "featureImage": "107-feature.jpg",
+            "image": "107.jpg",
+            "xml": "107.xml"
+        },
+        {
+            "dat": "108.dat",
+            "featureImage": "108-feature.jpg",
+            "image": "108.jpg",
+            "xml": "108.xml"
+        },
+        {
+            "dat": "109.dat",
+            "featureImage": "109-feature.jpg",
+            "image": "109.jpg",
+            "xml": "109.xml"
+        },
+        {
+            "dat": "110.dat",
+            "featureImage": "110-feature.jpg",
+            "image": "110.jpg",
+            "xml": "110.xml"
+        },
+        {
+            "dat": "111.dat",
+            "featureImage": "111-feature.jpg",
+            "image": "111.jpg",
+            "xml": "111.xml"
+        },
+        {
+            "dat": "112.dat",
+            "featureImage": "112-feature.jpg",
+            "image": "112.jpg",
+            "xml": "112.xml"
+        },
+        {
+            "dat": "113.dat",
+            "featureImage": "113-feature.jpg",
+            "image": "113.jpg",
+            "xml": "113.xml"
+        },
+        {
+            "dat": "114.dat",
+            "featureImage": "114-feature.jpg",
+            "image": "114.jpg",
+            "xml": "114.xml"
+        },
+        {
+            "dat": "115.dat",
+            "featureImage": "115-feature.jpg",
+            "image": "115.jpg",
+            "xml": "115.xml"
+        },
+        {
+            "dat": "116.dat",
+            "featureImage": "116-feature.jpg",
+            "image": "116.jpg",
+            "xml": "116.xml"
+        }
+    ]
+}
