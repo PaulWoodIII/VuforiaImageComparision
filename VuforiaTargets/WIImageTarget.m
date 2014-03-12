@@ -16,6 +16,7 @@
     target.featureImageString = [dict objectForKey:@"featureImage"];
     target.datString = [dict objectForKey:@"dat"];
     target.xmlString = [dict objectForKey:@"xml"];
+    target.starRating = [dict objectForKey:@"rating"];
     target.isSelected = YES;
     return target;
 }
@@ -31,9 +32,10 @@
 }
 
 - (NSString *)description{
-    return [NSString stringWithFormat:@"< %@ | image:%@ | featureImage:%@ | dat:%@ | xml:%@ >",
+    return [NSString stringWithFormat:@"< %@ | image:%@ | rating:%f | featureImage:%@ | dat:%@ | xml:%@ >",
             [self class],
             self.imageString,
+            [self.starRating floatValue],
             self.featureImageString,
             self.datString,
             self.xmlString];

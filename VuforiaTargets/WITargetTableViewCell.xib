@@ -10,39 +10,37 @@
                 <outlet property="featureImage" destination="Hrc-Hf-kAj" id="t4Q-6Z-IEN"/>
                 <outlet property="mainImage" destination="MYd-HW-jCs" id="E0M-Ac-3o6"/>
                 <outlet property="targetName" destination="mIZ-cd-XO7" id="RW9-do-37i"/>
-                <outlet property="targetStarRating" destination="Lds-eu-t4M" id="HME-p6-JpN"/>
+                <outlet property="targetStarRating" destination="nky-xr-jcG" id="EaH-ej-0oE"/>
             </connections>
         </placeholder>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
-        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="161" id="fHh-Wx-LmZ">
-            <rect key="frame" x="0.0" y="0.0" width="320" height="161"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="169" id="fHh-Wx-LmZ">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="168"/>
             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
             <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="fHh-Wx-LmZ" id="RPe-PC-0yG">
-                <rect key="frame" x="0.0" y="0.0" width="320" height="160"/>
+                <rect key="frame" x="0.0" y="0.0" width="320" height="167"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
                     <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="MYd-HW-jCs">
-                        <rect key="frame" x="46" y="9" width="100" height="100"/>
+                        <rect key="frame" x="14" y="9" width="130" height="130"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                     </imageView>
                     <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="Hrc-Hf-kAj">
-                        <rect key="frame" x="154" y="9" width="100" height="100"/>
+                        <rect key="frame" x="152" y="9" width="130" height="130"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                     </imageView>
                     <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="mIZ-cd-XO7">
-                        <rect key="frame" x="46" y="112" width="208" height="21"/>
+                        <rect key="frame" x="14" y="140" width="130" height="21"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                         <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                         <nil key="highlightedColor"/>
                     </label>
-                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Lds-eu-t4M">
-                        <rect key="frame" x="46" y="132" width="208" height="21"/>
+                    <view contentMode="scaleToFill" id="nky-xr-jcG" customClass="EDStarRating">
+                        <rect key="frame" x="152" y="140" width="130" height="21"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
-                        <nil key="highlightedColor"/>
-                    </label>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    </view>
                 </subviews>
             </tableViewCellContentView>
         </tableViewCell>

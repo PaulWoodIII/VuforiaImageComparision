@@ -28,6 +28,8 @@
 {
     [super viewDidLoad];
     [self addStartButton];
+    //Link in Star Rating
+    [EDStarRating class];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
@@ -120,12 +122,20 @@ didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
     WITargetTableViewCell *targetCell = (WITargetTableViewCell *)cell;
     WIImageTarget *target = [self.imageTargets objectAtIndex:indexPath.row];
+    
+    //Setup Rating View
+    EDStarRating *ratingView = (EDStarRating *)targetCell.targetStarRating;
+    ratingView.rating = [[target starRating] floatValue];
+    [ratingView setNeedsDisplay];
 
+    //Set Text
     targetCell.targetName.text = target.imageString;
-    targetCell.targetStarRating.text = @"";
+
+    //Set Images
     [targetCell.mainImage setImage:[target image]];
     [targetCell.featureImage setImage:[target featureImage]];
     
+    //Set Selection State
     if ([target isSelected]) {
         cell.accessoryType = UITableViewCellAccessoryCheckmark;
     }
@@ -148,6 +158,12 @@ NSString *const kWITargetTableViewCellReuseIdentifier = @"WITargetTableViewCell"
                                                           owner:self
                                                         options:nil];
         self.backgroundColor = [UIColor clearColor];
+        self.targetStarRating.maxRating = 5.0;
+        self.targetStarRating.delegate = nil;
+        self.targetStarRating.horizontalMargin = 12;
+        self.targetStarRating.editable = NO;
+        self.targetStarRating.starImage = [UIImage imageNamed:@"star-template"];
+        self.targetStarRating.starHighlightedImage = [UIImage imageNamed:@"star-highlighted-template"];
         [self addSubview:self.content];
 	}
 	return self;

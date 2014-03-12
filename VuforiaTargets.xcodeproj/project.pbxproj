@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D79AC66FB41C4403B30B6FCE /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BBA88B7ADCAE45FA9314F8E5 /* libPods.a */; };
 		DA065AB518B6F85400D82245 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA065AB418B6F85400D82245 /* Foundation.framework */; };
 		DA065AB718B6F85400D82245 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA065AB618B6F85400D82245 /* CoreGraphics.framework */; };
 		DA065AB918B6F85400D82245 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA065AB818B6F85400D82245 /* UIKit.framework */; };
@@ -978,6 +979,14 @@
 		DA74FD0D18B74DA500DE359E /* ImageTargetsEAGLView.mm in Sources */ = {isa = PBXBuildFile; fileRef = DA74FD0B18B74DA500DE359E /* ImageTargetsEAGLView.mm */; };
 		DA7B3A3518CF42C90036BF31 /* WIImageTarget.m in Sources */ = {isa = PBXBuildFile; fileRef = DA7B3A3418CF42C80036BF31 /* WIImageTarget.m */; };
 		DA7B3A3618CF42C90036BF31 /* WIImageTarget.m in Sources */ = {isa = PBXBuildFile; fileRef = DA7B3A3418CF42C80036BF31 /* WIImageTarget.m */; };
+		DAC04B3118D0084B00C76F39 /* star-template.png in Resources */ = {isa = PBXBuildFile; fileRef = DAC04B2F18D0084B00C76F39 /* star-template.png */; };
+		DAC04B3218D0084B00C76F39 /* star-template.png in Resources */ = {isa = PBXBuildFile; fileRef = DAC04B2F18D0084B00C76F39 /* star-template.png */; };
+		DAC04B3318D0084B00C76F39 /* star-template@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DAC04B3018D0084B00C76F39 /* star-template@2x.png */; };
+		DAC04B3418D0084B00C76F39 /* star-template@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DAC04B3018D0084B00C76F39 /* star-template@2x.png */; };
+		DAC04B3718D008B300C76F39 /* star-highlighted-template.png in Resources */ = {isa = PBXBuildFile; fileRef = DAC04B3518D008B300C76F39 /* star-highlighted-template.png */; };
+		DAC04B3818D008B300C76F39 /* star-highlighted-template.png in Resources */ = {isa = PBXBuildFile; fileRef = DAC04B3518D008B300C76F39 /* star-highlighted-template.png */; };
+		DAC04B3918D008B300C76F39 /* star-highlighted-template@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DAC04B3618D008B300C76F39 /* star-highlighted-template@2x.png */; };
+		DAC04B3A18D008B300C76F39 /* star-highlighted-template@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DAC04B3618D008B300C76F39 /* star-highlighted-template@2x.png */; };
 		DAF7554618C483AF002CC113 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DAF7554518C483AF002CC113 /* GLKit.framework */; };
 		DAF7554918C48C8D002CC113 /* InbiChipvFlip.png in Resources */ = {isa = PBXBuildFile; fileRef = DAF7554718C48C8D002CC113 /* InbiChipvFlip.png */; };
 		DAF7554A18C48C8D002CC113 /* InbiChip.png in Resources */ = {isa = PBXBuildFile; fileRef = DAF7554818C48C8D002CC113 /* InbiChip.png */; };
@@ -994,6 +1003,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BBA88B7ADCAE45FA9314F8E5 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		C61DE40397714CB18E5E0F28 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 		DA02099718BDE7E9002FD0AB /* Area.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Area.h; sourceTree = "<group>"; };
 		DA02099818BDE7E9002FD0AB /* CameraCalibration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CameraCalibration.h; sourceTree = "<group>"; };
@@ -1548,6 +1558,10 @@
 		DA74FD0B18B74DA500DE359E /* ImageTargetsEAGLView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ImageTargetsEAGLView.mm; sourceTree = "<group>"; };
 		DA7B3A3318CF42C80036BF31 /* WIImageTarget.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WIImageTarget.h; sourceTree = "<group>"; };
 		DA7B3A3418CF42C80036BF31 /* WIImageTarget.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WIImageTarget.m; sourceTree = "<group>"; };
+		DAC04B2F18D0084B00C76F39 /* star-template.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "star-template.png"; sourceTree = "<group>"; };
+		DAC04B3018D0084B00C76F39 /* star-template@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "star-template@2x.png"; sourceTree = "<group>"; };
+		DAC04B3518D008B300C76F39 /* star-highlighted-template.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "star-highlighted-template.png"; sourceTree = "<group>"; };
+		DAC04B3618D008B300C76F39 /* star-highlighted-template@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "star-highlighted-template@2x.png"; sourceTree = "<group>"; };
 		DAF7554518C483AF002CC113 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
 		DAF7554718C48C8D002CC113 /* InbiChipvFlip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InbiChipvFlip.png; sourceTree = "<group>"; };
 		DAF7554818C48C8D002CC113 /* InbiChip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InbiChip.png; sourceTree = "<group>"; };
@@ -1571,6 +1585,7 @@
 				DA065AB718B6F85400D82245 /* CoreGraphics.framework in Frameworks */,
 				DA065AB918B6F85400D82245 /* UIKit.framework in Frameworks */,
 				DA065AB518B6F85400D82245 /* Foundation.framework in Frameworks */,
+				D79AC66FB41C4403B30B6FCE /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1681,6 +1696,7 @@
 				DA065AB618B6F85400D82245 /* CoreGraphics.framework */,
 				DA065AB818B6F85400D82245 /* UIKit.framework */,
 				DA065AD318B6F85500D82245 /* XCTest.framework */,
+				BBA88B7ADCAE45FA9314F8E5 /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -1710,6 +1726,10 @@
 				DA065ABB18B6F85400D82245 /* Supporting Files */,
 				DA7B3A3318CF42C80036BF31 /* WIImageTarget.h */,
 				DA7B3A3418CF42C80036BF31 /* WIImageTarget.m */,
+				DAC04B2F18D0084B00C76F39 /* star-template.png */,
+				DAC04B3018D0084B00C76F39 /* star-template@2x.png */,
+				DAC04B3518D008B300C76F39 /* star-highlighted-template.png */,
+				DAC04B3618D008B300C76F39 /* star-highlighted-template@2x.png */,
 			);
 			path = VuforiaTargets;
 			sourceTree = "<group>";
@@ -2407,6 +2427,7 @@
 				DA3A3E2018CEF83300A61778 /* 113-feature.jpg in Resources */,
 				DA3A3DF818CEF83300A61778 /* 108-feature.jpg in Resources */,
 				DA3A3DE218CEF83300A61778 /* 105.dat in Resources */,
+				DAC04B3718D008B300C76F39 /* star-highlighted-template.png in Resources */,
 				DA3A3CC018CEF83300A61778 /* 069-feature.jpg in Resources */,
 				DA3A3BAC18CEF83200A61778 /* 034.jpg in Resources */,
 				DA3A3CD818CEF83300A61778 /* 072-feature.jpg in Resources */,
@@ -2687,6 +2708,7 @@
 				DA3A3B1A18CEF83200A61778 /* 016.dat in Resources */,
 				DA3A3BD418CEF83200A61778 /* 039.jpg in Resources */,
 				DA3A3D5018CEF83300A61778 /* 087-feature.jpg in Resources */,
+				DAC04B3118D0084B00C76F39 /* star-template.png in Resources */,
 				DA3A3BE818CEF83200A61778 /* 042-feature.jpg in Resources */,
 				DA3A3D3A18CEF83300A61778 /* 084.dat in Resources */,
 				DA3A3D4818CEF83300A61778 /* 086-feature.jpg in Resources */,
@@ -2720,6 +2742,7 @@
 				DA3A3D5418CEF83300A61778 /* 087.jpg in Resources */,
 				DA3A3D3818CEF83300A61778 /* 084-feature.jpg in Resources */,
 				DA3A3B7818CEF83200A61778 /* 028-feature.jpg in Resources */,
+				DAC04B3918D008B300C76F39 /* star-highlighted-template@2x.png in Resources */,
 				DA3A3C2218CEF83300A61778 /* 049.dat in Resources */,
 				DA3A3D2618CEF83300A61778 /* 081.xml in Resources */,
 				DA3A3D4018CEF83300A61778 /* 085-feature.jpg in Resources */,
@@ -2765,6 +2788,7 @@
 				DA3A3AB418CEF83200A61778 /* 003.jpg in Resources */,
 				DA3A3B0618CEF83200A61778 /* 013.xml in Resources */,
 				DA3A3B1418CEF83200A61778 /* 015.jpg in Resources */,
+				DAC04B3318D0084B00C76F39 /* star-template@2x.png in Resources */,
 				DA3A3AD618CEF83200A61778 /* 007.xml in Resources */,
 				DA3A3CFA18CEF83300A61778 /* 076.dat in Resources */,
 			);
@@ -2921,6 +2945,7 @@
 				DA3A3B6D18CEF83200A61778 /* 026.jpg in Resources */,
 				DA3A3B9118CEF83200A61778 /* 031-feature.jpg in Resources */,
 				DA3A3DD718CEF83300A61778 /* 103.xml in Resources */,
+				DAC04B3218D0084B00C76F39 /* star-template.png in Resources */,
 				DA3A3C8F18CEF83300A61778 /* 062.xml in Resources */,
 				DA3A3C7B18CEF83300A61778 /* 060.dat in Resources */,
 				DA3A3C5D18CEF83300A61778 /* 056.jpg in Resources */,
@@ -2969,6 +2994,7 @@
 				DA3A3C8318CEF83300A61778 /* 061.dat in Resources */,
 				DA3A3B4F18CEF83200A61778 /* 022.xml in Resources */,
 				DA3A3ABF18CEF83200A61778 /* 004.xml in Resources */,
+				DAC04B3418D0084B00C76F39 /* star-template@2x.png in Resources */,
 				DA3A3B0D18CEF83200A61778 /* 014.jpg in Resources */,
 				DA3A3D1118CEF83300A61778 /* 079-feature.jpg in Resources */,
 				DA3A3D4318CEF83300A61778 /* 085.dat in Resources */,
@@ -3008,6 +3034,7 @@
 				DA3A3BC718CEF83200A61778 /* 037.xml in Resources */,
 				DA3A3C8118CEF83300A61778 /* 061-feature.jpg in Resources */,
 				DA3A3BF518CEF83200A61778 /* 043.jpg in Resources */,
+				DAC04B3A18D008B300C76F39 /* star-highlighted-template@2x.png in Resources */,
 				DA3A3AE318CEF83200A61778 /* 009.dat in Resources */,
 				DA3A3B0118CEF83200A61778 /* 013-feature.jpg in Resources */,
 				DA3A3B1118CEF83200A61778 /* 015-feature.jpg in Resources */,
@@ -3154,6 +3181,7 @@
 				DA065B2118B6FDC700D82245 /* StonesAndChips.dat in Resources */,
 				DA3A3D3F18CEF83300A61778 /* 084.xml in Resources */,
 				DA3A3DF518CEF83300A61778 /* 107.jpg in Resources */,
+				DAC04B3818D008B300C76F39 /* star-highlighted-template.png in Resources */,
 				DA3A3C5918CEF83300A61778 /* 056-feature.jpg in Resources */,
 				DA3A3B8B18CEF83200A61778 /* 030.dat in Resources */,
 				DA3A3CBD18CEF83300A61778 /* 068.jpg in Resources */,
@@ -3435,6 +3463,20 @@
 					/Projects/VuforiaTargets,
 					"$(PROJECT_DIR)",
 				);
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-ObjC",
+					"-framework",
+					CoreGraphics,
+					"-framework",
+					MobileCoreServices,
+					"-framework",
+					QuartzCore,
+					"-framework",
+					Security,
+					"-framework",
+					SystemConfiguration,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -3461,6 +3503,20 @@
 					"$(inherited)",
 					/Projects/VuforiaTargets,
 					"$(PROJECT_DIR)",
+				);
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-ObjC",
+					"-framework",
+					CoreGraphics,
+					"-framework",
+					MobileCoreServices,
+					"-framework",
+					QuartzCore,
+					"-framework",
+					Security,
+					"-framework",
+					SystemConfiguration,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
